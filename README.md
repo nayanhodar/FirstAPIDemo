@@ -1,4 +1,4 @@
-# FirstAPIDemo
+# .Net Core API Demo
 Hello,
 
 This is my first .net core api demo.
